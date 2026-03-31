@@ -1,4 +1,4 @@
-# Halo, Saya [Nama Kamu]! 👋
+# Halo, Saya Marhaban Akbar Maulana 👋
 
 ## 📝 Introduction
 Hi there! I'm Marhaban Akbar Maulana, an Information Technology student at Politeknik Negeri Batam (Class of 2024). I am passionate about software development and eager to learn new technologies to build impactful digital products.
