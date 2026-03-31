@@ -8,10 +8,6 @@ Hi there! I'm Marhaban Akbar Maulana, an Information Technology student at Polit
 
 Berikut adalah beberapa teknologi yang biasa saya gunakan:
 
-## 🚀 Skills & Tech Stack
-
-Berikut adalah beberapa teknologi yang biasa saya gunakan:
-
 **Frontend Web & Mobile Development:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -55,5 +51,5 @@ Mari berteman dan berkolaborasi!
 
 ---
 
-## 🖼️ Banner (Opsional)
+## 🖼️ Banner
 ![Banner](https://img.shields.io/badge/Status-Open%20To%20Work-green?style=for-the-badge)
